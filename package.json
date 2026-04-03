@@ -1,0 +1,21 @@
+{
+    "author": "sylvain.migaud@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "snapcounter",
+    "pebble": {
+        "displayName": "SnapCounter",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "108acf4a-814f-455d-bda4-48285772ee75",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
